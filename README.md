@@ -1,12 +1,8 @@
-<h1 align="left">Bonjour, je suis Lukas 👋</h1>
+<h1 align="left">Lukas</h1>
 
 ###
 
-<p align="left">Oui c'est moi</p>
-
-###
-
-<h2 align="left">🔧 Mes compétences</h2>
+<h2 align="left">Languages (Used at least once)</h2>
 
 ###
 
@@ -32,7 +28,7 @@
 
 ###
 
-<h2 align="left">💡 Mes IDEs</h2>
+<h2 align="left">IDEs</h2>
 
 ###
 
