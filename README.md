@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">Languages (Used at least once)</h2>
+<h2 align="left">Languages and tools (Used at least once)</h2>
 
 ###
 
